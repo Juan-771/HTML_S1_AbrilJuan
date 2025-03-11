@@ -1,0 +1,27 @@
+* {
+    margin: 10px;
+}
+h1{
+    color: red;
+}
+p{
+    color:blue;
+}
+.parrafos{
+    font-size: 50px;
+}
+#boton2{
+    font-size: 25px;
+}
+#entradita{
+    font-size: 20px;
+}
+#pinguinos{
+    width: 350px;
+    height: 350px;
+    border: 8px solid red;
+    margin-left: 10px;
+}
+.imagenesVideos{
+    margin: 80px;
+}
