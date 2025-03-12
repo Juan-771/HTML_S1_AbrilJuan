@@ -4,7 +4,7 @@ En Este Archivo se Puede encontrar el Index y sus funciones respectivas
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | index.html  |
+| 1 | [Dia2]  |
 
 
 
