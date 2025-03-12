@@ -8,10 +8,27 @@
     border-radius: 50%;
     object-fit: cover;
     border: 10px black;
+    
 }
 .recuadro1{
     width: 300px;
     height: 200px;
     border: 1px solid #000;
+    
+}
+.recuadro2{
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: -450px 0 0 350px;
+    
+    
+}
+.recuadro3{
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 10px 0 0 350px;
+    
     
 }
