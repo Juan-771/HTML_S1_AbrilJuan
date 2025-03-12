@@ -4,9 +4,9 @@ En este repositorio se puede encontrar la documentacion de los dias
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | [Dia2](Dia2/index.html) |
-| 2  | [Dia2](Dia2/img) |
-|  3 | [Dia2](Dia2/style/style.css) |
+| 1 | [Dia2](index.html) |
+| 2  | [Dia2](img) |
+|  3 | [Dia2](style/style.css) |
 
 
 
