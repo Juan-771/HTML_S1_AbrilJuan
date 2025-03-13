@@ -1,0 +1,35 @@
+.recuadro{
+    width: 100%;
+    
+}
+#me{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 10px black;
+}
+#recuadrito1{
+    width: 250px;
+    height: 250px;
+}
+#recuadrito2{
+    width: 250px;
+    height: 250px;
+}
+#recuadrito3{
+    width: 250px;
+    height: 250px;
+
+}
+#recuadrito4{
+    width: 250px;
+    height: 250px;
+}
+#recuadrito5{
+    width: 250px;
+    height: 250px;
+}
+

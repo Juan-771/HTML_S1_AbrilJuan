@@ -26,9 +26,17 @@
 }
 .recuadro3{
     width: 400px;
-    height: 200px;
+    height: 220px;
     border: 1px solid #000;
     margin: 10px 0 0 350px;
+    
+    
+}
+.recuadro4{
+    width: 400px;
+    height: 450px;
+    border: 1px solid #000;
+    margin: -420px 0 0 800px;
     
     
 }
