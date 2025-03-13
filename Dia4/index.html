@@ -1,0 +1,49 @@
+<!--Trabajo Formularios-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+</head>
+
+<body>
+
+    <!-- FORMULARIOS -->
+    <!-- Creacion de formularios-->
+    <form name="formularioInscripcion" method="post" action="">
+        <!-- ELEMENTO INPUT-->
+        <h1>Formulario de registro - Mi web</h1>
+        <input type="text" name="username" placeholder="Nombre" maxlength="50" />
+        <input type="text" name="username" placeholder="Apellido" maxlength="50" />
+        <label for="TuGenero">Selecciona tu Genero:</label>
+        <select name="TuGenero" id="TuGenero">
+            <option>HOMBRE</option>
+            <option>MUJER</option>
+        </select>
+        <input type="email" name="correo" placeholder="Correo" />
+        <label for="TuCiudad">Selecciona tu poblacion:</label>
+        <select name="TuCiudad" id="TuCiudad">
+            <option>GIRON</option>
+            <option>BUCARAMANGA</option>
+            <option>FLORIDABLANCA</option>
+            <option>PIDICUESTA</option>
+
+            <label> <br> <br>
+                <input type="checkbox" id="cbox1" value="first_checkbox" checked /> Deseo recibir información sobre
+                novedades y ofertas</label>
+            <br />
+
+            <input type="checkbox" id="cbox2" value="second_checkbox" />
+            <label for="cbox2">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre
+                protección de datos</label>
+            <br>
+            <textarea name="textarea" rows="10" cols="50">escribe aqui tu opinion de la pagina </textarea>
+
+            <input type="submit" value="Enviar">
+    </form>
+</body>
+
+</html>
+<!--Desarrollado por: Juan Abril - T.I: 1.097.495.953-->
