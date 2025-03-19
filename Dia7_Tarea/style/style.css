@@ -1,0 +1,48 @@
+.gradiante {
+    background: transparent linear-gradient(rgba(255, 255, 255, 1), rgba(230, 230, 230, 1), rgba(128, 128, 128, 1));
+    margin: 0;
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 1200px;
+    background-repeat: no-repeat;
+    opacity: 1;
+
+}
+
+.rectangule3 {
+    background-image: url('../img/Rectangle\ 3.svg') ;
+    top: 200px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+    position: absolute;
+    border: 1px solid rgba(112, 112, 112, 1);
+    opacity: 1;
+}
+.logo {
+    background: transparent url('../img/logo.png') ;
+    margin-top: 43px;
+    margin-left: 43px;
+top: 243px;
+left: 143px;
+width: 196px;
+height: 44px;
+background-size: contain;
+}
+.tarjeta{
+    background: url('../img/tarjeta.png');
+    margin-top: 127px;
+    margin-left: 122;
+    margin-bottom: 181px;
+    margin-right: ;
+top: 322px;
+left: 227px;
+width: 884px;
+height: 497px;
+}
+
+
+
+
+
