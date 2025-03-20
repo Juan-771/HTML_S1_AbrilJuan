@@ -9,7 +9,9 @@ En este repositorio se puede encontrar la documentacion de los dias
 | 3 | [Dia3](Dia3) |
 | 4 | [Dia4](Dia4) |
 | 5 | [Dia5](Dia5) |
-| 6 | [Dia5_Tarea](Dia5_Tarea) |
+| 6 | [Dia6](Dia6) |
+| 7 | [Dia7](Dia7) |
+| 8 | [Dia8](Dia8) |
 
 
 
@@ -18,8 +20,11 @@ En este repositorio se puede encontrar la documentacion de los dias
 -El segundo Indice nos muestra la carpeta donde se realizo la primer hoja de vida
 -El tercer indice nos muestra la carpeta donde va la correccion de la primer hoja de vida utilizando tablas
 -El cuarto indice nos muestra la carpeta donde se realizo un formulario de registro
--El quinto indice nos muestra la carpeta donde se realizo una actividad en clase y apuntes
--El sexto indices nos muestra la carpeta donde se realizo una tarea sobre un wireframe de Amazon
+-El quinto indice nos muestra la carpeta donde se realizo una el wireframe de amazon y apuntes de clase
+-El sexto indice son apuntes y repaso de la clase pasada
+-El septimo indice nos muestra la carpeta donde se realizo la tarjeta de metrolinea y los apuntes de ese dia
+-El Octavo indice nos muestra la carpeta donde se realizo la pagina del cafe y los apuntes de es dia
+
 
 
 > [!NOTE]

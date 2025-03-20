@@ -1,19 +1,206 @@
-/* CSS */
-/* Cascading Style Sheets - Hojas de estilo en cascada */
+.fondo {
+    
+    background-image:  url('../img/img1.png'), url('../img/Path_1.png');
+    background-position: top center, bottom center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100% , 100% ;
+    height: 4110px;
+    width: 1918px;
+    overflow-y: auto;
+    
+    
 
-h1/* Selector */{
-    /*Declaraciones*/
-    /*Propiedad:Valor*/
-    color: blue;
-    font-size: 12px;
+}
+#milupita{
 
-    
+width: 36px;
+height: 36px;
+margin-top: 37px;
+margin-left: 63px;
+position: absolute;
+
+
+
 }
-h2{
-    color:rgb(0, 153, 255);
+#migroup{
+
+width: 205px;
+height: 54px;
+margin-top: 30px;
+margin-left: 1695px;
+position: absolute;
 }
-texto{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
-    
+#milogin{
+    margin-top: 48px;
+    margin-left: 1773px;
+    position: absolute;
+}
+#milogito{
+    position: absolute;
+    top: 227px;
+left: 682px;
+width: 556px;
+height: 313px;
+}
+
+#mitexto1{
+    top: 517px;
+left: 389px;
+width: 1151px;
+height: 60px;
+position: absolute;
+}
+#mitexto2{
+    position: absolute;
+    top: 608px;
+    left: 380px;
+width: 1160px;
+height: 102px;
+}
+#globito2{
+top: 755px;
+left: 730px;
+width: 458px;
+height: 104px;
+position: absolute;
+}
+#Sign-Up{
+    top: 787px;
+left: 780px;
+width: 360px;
+height: 40px;
+position: absolute;
+}
+#azulito1{
+    top: 1106px;
+left: 64px;
+width: 1792px;
+height: 567px;
+position: absolute;
+}
+#azulito2{
+    top: 1717px;
+left: 64px;
+width: 1792px;
+height: 724px;
+position: absolute;
+}
+#textoazulito2{
+    top: 1773px;
+left: 135px;
+width: 1664px;
+height: 60px;
+position: absolute;
+}
+#portada1{
+    top: 1896px;
+left: 477px;
+width: 181px;
+height: 309px;
+position: absolute;
+}
+#portada2{
+    top: 1896px;
+left: 670px;
+width: 181px;
+height: 309px;
+position: absolute;
+}
+#portada3{
+    top: 1896px;
+    left: 863px;
+    width: 180px;
+    height: 309px;
+position: absolute;
+}
+#portada4{
+    top: 1896px;
+left: 1055px;
+width: 181px;
+height: 309px;
+position: absolute;
+}
+#portada5{
+    top: 1896px;
+left: 1248px;
+width: 181px;
+height: 309px;
+position: absolute;
+}
+#textoazulito2_2{
+    top: 2286px;
+left: 207px;
+width: 1492px;
+height: 110px;
+position: absolute;
+}
+#azulito3{
+    top: 2467px;
+left: 64px;
+width: 1792px;
+height: 567px;
+position: absolute;
+}
+#textoazulito3{
+    top: 2546px;
+    left: 560px;
+    width: 800px;
+    height: 60px;
+    position: absolute;
+}
+#cancelar{
+    top: 2650px;
+left: 876px;
+width: 169px;
+height: 169px;
+position: absolute;
+}
+#textoazulito3_3{
+    top: 2881px;
+left: 269px;
+width: 1382px;
+height: 88px;
+position: absolute;
+}
+#compatible{
+    top: 3127px;
+left: 418px;
+width: 1118px;
+height: 125px;
+position: absolute;
+}
+#textonegro1{
+    top: 3296px;
+left: 181px;
+width: 1544px;
+height: 99px;
+position: absolute;
+}
+#mac{
+    top: 3440px;
+left: 685px;
+width: 584px;
+height: 534px;
+position: absolute;
+}
+#portatil{
+    top: 3587px;
+left: 1261px;
+width: 271px;
+height: 238px;
+position: absolute;
+}
+#jaifon{
+    top: 3606px;
+left: 386px;
+width: 256px;
+height: 219px;
+position: absolute;
+}
+#textonegro2{
+    top: 4088px;
+    left: 543px;
+    width: 831px;
+    height: 25px;
+position: absolute;
 }
