@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'letra1';
+    src: url('../tipografias/OpenSans-Semibold.ttf');
+}
+
 .gradiante {
     background: transparent linear-gradient(rgba(255, 255, 255, 1), rgba(230, 230, 230, 1), rgba(128, 128, 128, 1));
     margin: 0;
@@ -11,7 +16,7 @@
 }
 
 .rectangule3 {
-    background-image: url('../img/Rectangle\ 3.svg') ;
+    background-image: url('../img/Rectangle3.svg') ;
     top: 200px;
     left: 100px;
     width: 1400px;
@@ -32,14 +37,40 @@ background-size: contain;
 }
 .tarjeta{
     background: url('../img/tarjeta.png');
-    margin-top: 127px;
-    margin-left: 122;
+    margin-top: 122px;
+    margin-left: 127px;
     margin-bottom: 181px;
-    margin-right: ;
+    margin-right: 389px;
 top: 322px;
 left: 227px;
 width: 884px;
 height: 497px;
+}
+.negrito1{
+    margin-top: -888px;
+    margin-left: 1290px;
+    background-color: #212020;
+    border-radius: 0px 8px 8px 0px;
+top: 200px;
+left: 1390px;
+width: 110px;
+height: 800px;
+}
+.verdecito{
+    border-radius: 8px;
+    background-color: #D5FF43;
+    top: 847px;
+left: 1180px;
+width: 160px;
+height: 114px;
+}
+.letra1{
+font-family: 'letra1' ;
+top: 861px;
+left: 158px;
+width: 716px;
+height: 55px;
+    
 }
 
 

@@ -1,0 +1,19 @@
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    word-break: break-all;
+    line-break: loose;
+    text-align: center;
+    text-align-last: end;
+    text-justify: inter-word;
+    vertical-align: text-top;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-decoration: underline wavy;
+    text-decoration-color: brown;
+    text-decoration-style: double;
+    text-underline-offset: 10px;
+    text-transform: uppercase;
+    }
