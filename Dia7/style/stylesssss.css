@@ -7,7 +7,7 @@
 }
 
 .cuadro_uno {
-    position: absolute;
+    position: relative;
     top: 130px;
     left: 190px;
     width: 1400px;
@@ -27,10 +27,10 @@
 
 .tarjetap {
     position: absolute;
-    top: 280px;
-    left: 340px;
-    width: 884px;
-    height: 497px;
+    top: 250px;
+    left: 560px;
+    width: 576px;
+    height: 324px;
 
 }
 
@@ -86,15 +86,16 @@
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     font-size: 40px;
-    top: 760px;
-    left: 260px;
+    top: 540px;
+    left: 510px;
 }
 
 .textodos {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
-    top: 830px;
-    left: 265px;
+    top: 620px;
+    left: 640px;
+    font-size: 33px;
 }
 
 .hvinculo {
@@ -102,8 +103,8 @@
     font-size: 35px;
     position: absolute;
     top: 160px;
-    left: 1140px;
-    color: black;
+    left: 840px;
+    color: black
 }
 
 .cpratjta {
@@ -111,7 +112,8 @@
     font-size: 35px;
     position: absolute;
     top: 197px;
-    left: 840px;
+    left: 1140px;
+    color: black;
 }
 
 .flechauno {
@@ -140,20 +142,45 @@
     font-size: 24px;
     position: absolute;
     top: 300px;
-    left: 1497px;
+    left: 1515px;
     color: white;
 }
 
-.miniline {
+.linea {
     position: absolute;
     top: 225px;
-    left: 900px;
+    left: 1140px;
     width: 146px;
     height: 40px;
     color: black;
 }
 
-.blanco {
+.cap {
+    position: absolute;
+    top: 450px;
+    left: 1510px;
+    font-size: 40px;
+    width: 70px;
+    height: 190px;
+}
+
+.saldoesc {
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 620px;
+    left: 710px;
+    font-size: 33px;
+}
+
+.capdos {
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    top: 770px;
+    left: 740px;
+    font-size: 36px;
+}
+
+.blancouno {
     top: 200px;
     left: 100px;
     width: 1400px;
@@ -166,7 +193,7 @@
     margin: -948px 0px 0px 190px;
 }
 
-.negro {
+.negrouno {
     top: 200px;
     left: 1390px;
     width: 110px;
@@ -179,7 +206,7 @@
     margin: -800px 0px 0px 1482px;
 }
 
-.verde {
+.verdeuno {
     top: 847px;
     left: 1180px;
     width: 160px;
@@ -192,40 +219,32 @@
     margin: -150px 0px 0px 1270px;
 }
 
-.uno {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    position: absolute;
-    top: 440px;
-    left: 1530px;
-    color: #707070;
-
+.tralalelo {
+    top: 799px;
+    left: 595px;
+    width: 288px;
+    height: 58px;
+    /* UI Properties */
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+    margin: -120px 0px 0px 690px;
 }
 
-.dos {
+.milki{
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
+    font-size: 26px;
     position: absolute;
-    top: 545px;
-    left: 1530px;
-    color: #ffffff;
-
+    top: 799px;
+    left: 800px;
+    color: rgb(95, 92, 92);
 }
 
-.tres {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    position: absolute;
-    top: 650px;
-    left: 1530px;
-    color: #707070;
-}
-
-.lineap1 {
+.lineap12 {
     position: absolute;
     top: 260px;
-    left: 854px;
-    width: 220px;
+    left: 1150px;
+    width: 135px;
     height: 0px;
     /* UI Properties */
     border: 2px solid var(--unnamed-color-212020);
@@ -234,5 +253,31 @@
     opacity: 1;
 }
 
+.uno1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 440px;
+    left: 1520px;
+    color: #707070;
 
+}
 
+.dos2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 545px;
+    left: 1520px;
+    color: #ffffff;
+
+}
+
+.tres3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 650px;
+    left: 1520px;
+    color: #707070;
+}
